@@ -1,0 +1,14 @@
+{
+  "name": "card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "author": "Devsamuel",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.14"
+  }
+}
